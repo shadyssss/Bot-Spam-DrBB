@@ -1,6 +1,6 @@
-token=باث
-owner=326099411853901824
-prefix=1
-game=Type 1play
+token=NTkxMzgyMjI2NzY4MzYzNTQ3.XRc5pQ.yUK3ygHUA9-1iWyZydr6Dlw34FU
+owner=445491869749739520
+prefix=Dr
+game=Type Drplay
 stayinchannel=true
 songinstatus=true
